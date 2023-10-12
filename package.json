@@ -1,0 +1,27 @@
+{
+  "name": "capitalizecharacterpgk",
+  "version": "1.0.0",
+  "description": "capitalize character to uppercase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrwilbroad/capitalize-character-package.git"
+  },
+  "keywords": [
+    "capitalize",
+    "react",
+    "character"
+  ],
+  "author": "mrwilbroad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrwilbroad/capitalize-character-package/issues"
+  },
+  "homepage": "https://github.com/mrwilbroad/capitalize-character-package#readme",
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  }
+}
